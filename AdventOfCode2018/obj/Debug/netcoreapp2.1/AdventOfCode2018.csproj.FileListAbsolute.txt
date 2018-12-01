@@ -1,0 +1,15 @@
+C:\Code\adventofcode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Code\adventofcode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Code\adventofcode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Code\adventofcode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Code\adventofcode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\AdventOfCode2018.deps.json
+C:\Code\adventofcode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\AdventOfCode2018.runtimeconfig.json
+C:\Code\adventofcode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\AdventOfCode2018.runtimeconfig.dev.json
+C:\Code\adventofcode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\AdventOfCode2018.dll
+C:\Code\adventofcode2018\AdventOfCode2018\bin\Debug\netcoreapp2.1\AdventOfCode2018.pdb
+C:\Code\adventofcode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.csprojAssemblyReference.cache
+C:\Code\adventofcode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.csproj.CoreCompileInputs.cache
+C:\Code\adventofcode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.AssemblyInfoInputs.cache
+C:\Code\adventofcode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.AssemblyInfo.cs
+C:\Code\adventofcode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.dll
+C:\Code\adventofcode2018\AdventOfCode2018\obj\Debug\netcoreapp2.1\AdventOfCode2018.pdb
